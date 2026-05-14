@@ -92,7 +92,7 @@ Shows successful reminder deletion.
 ---
 
 ### Voice Reminder Running
-Continuous reminder checking with voice notification.
+Continuous reminder checking.
 
 ![Voice Reminder](screenshots/voice_reminder.png)
 
